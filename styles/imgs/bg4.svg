@@ -1,0 +1,67 @@
+<svg width="1102" height="469" viewBox="0 0 1102 469" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1 1)" fill="none" fill-rule="evenodd">
+        <rect stroke="#EFEFF3" width="1100" height="467" rx="3"/>
+        <path d="M3 0h1094a3 3 0 0 1 3 3v89H0V3a3 3 0 0 1 3-3z" stroke="#EFEFF3" fill="#E21A41"/>
+        <text font-family="NotoSans, Noto Sans" font-size="16" fill="#FFF">
+                    <tspan x="660" y="69">Worth 63B USD</tspan>
+                </text>
+        <text font-family="NotoSans, Noto Sans" font-size="16" fill="#FFF">
+                    <tspan x="915" y="69">Worth 21B USD</tspan>
+                </text>
+        <text font-family="NotoSans-Bold, Noto Sans" font-size="20" font-weight="bold" fill="#FFF">
+                    <tspan x="48.02" y="137">Reliable prices</tspan>
+                </text>
+        <path stroke="#EFEFF3" stroke-linecap="square" d="M0 167h1100M335 0v467M590 0v467M845 0v467M0 242h1100M0 317h1100M0 392h1100"/>
+        <text font-family="NotoSans-Bold, Noto Sans" font-size="20" font-weight="bold" fill="#FFF">
+                    <tspan x="48.495" y="212">Low slippage</tspan>
+                </text>
+        <text font-family="NotoSans-Bold, Noto Sans" font-size="20" font-weight="bold" fill="#FFF">
+                    <tspan x="48.476" y="287">Frontrun protection</tspan>
+                </text>
+        <text font-family="NotoSans-Bold, Noto Sans" font-size="20" font-weight="bold" fill="#FFF">
+                    <tspan x="48.328" y="362">No KYC</tspan>
+                </text>
+        <text font-family="NotoSans-Bold, Noto Sans" font-size="20" font-weight="bold" fill="#FFF">
+                    <tspan x="48.134" y="437">Full control of funds</tspan>
+                </text>
+        <text font-family="NotoSans-Bold, Noto Sans" font-size="24" font-weight="bold" fill="#FFF">
+                    <tspan x="365.439" y="56">CEXISWAP (DEX)</tspan>
+                </text>
+        <text font-family="NotoSans-Bold, Noto Sans" font-size="24" font-weight="bold" fill="#FFF">
+                    <tspan x="635.236" y="44">Binance (CEX)</tspan>
+                </text>
+        <text font-family="NotoSans-Bold, Noto Sans" font-size="24" font-weight="bold" fill="#FFF">
+                    <tspan x="879.484" y="44">UNISWAP (DEX)</tspan>
+                </text>
+        <path fill="#FFF" d="m455.5 117-7.5 13 7.5 13h5.096l4.886-6.956v-8.137l-4.964 6.785v4.016h-2.542L452.952 130l5.024-8.708h2.485l3.015-4.292z"/>
+        <path fill="#F4003A" d="m465.349 117-4.831 6.877v8.227l4.964-6.785v-4.027h2.542l5.024 8.708-5.024 8.708h-2.54L462.468 143h8.031l7.5-13-7.5-13z"/>
+        <path fill="#FFF" d="m455.5 192-7.5 13 7.5 13h5.096l4.886-6.956v-8.137l-4.964 6.785v4.016h-2.542L452.952 205l5.024-8.708h2.485l3.015-4.292z"/>
+        <path fill="#F4003A" d="m465.349 192-4.831 6.877v8.227l4.964-6.785v-4.027h2.542l5.024 8.708-5.024 8.708h-2.54L462.468 218h8.031l7.5-13-7.5-13z"/>
+        <path fill="#FFF" d="m455.5 267-7.5 13 7.5 13h5.096l4.886-6.956v-8.137l-4.964 6.785v4.016h-2.542L452.952 280l5.024-8.708h2.485l3.015-4.292z"/>
+        <path fill="#F4003A" d="m465.349 267-4.831 6.877v8.227l4.964-6.785v-4.027h2.542l5.024 8.708-5.024 8.708h-2.54L462.468 293h8.031l7.5-13-7.5-13z"/>
+        <path fill="#FFF" d="m710.5 117-7.5 13 7.5 13h5.096l4.886-6.956v-8.137l-4.964 6.785v4.016h-2.542L707.952 130l5.024-8.708h2.485l3.015-4.292z"/>
+        <path fill="#F4003A" d="m720.349 117-4.831 6.877v8.227l4.964-6.785v-4.027h2.542l5.024 8.708-5.024 8.708h-2.54L717.468 143h8.031l7.5-13-7.5-13z"/>
+        <path fill="#FFF" d="m710.5 192-7.5 13 7.5 13h5.096l4.886-6.956v-8.137l-4.964 6.785v4.016h-2.542L707.952 205l5.024-8.708h2.485l3.015-4.292z"/>
+        <path fill="#F4003A" d="m720.349 192-4.831 6.877v8.227l4.964-6.785v-4.027h2.542l5.024 8.708-5.024 8.708h-2.54L717.468 218h8.031l7.5-13-7.5-13z"/>
+        <g>
+            <path fill="#FFF" d="m710.5 267-7.5 13 7.5 13h5.096l4.886-6.956v-8.137l-4.964 6.785v4.016h-2.542L707.952 280l5.024-8.708h2.485l3.015-4.292z"/>
+            <path fill="#F4003A" d="m720.349 267-4.831 6.877v8.227l4.964-6.785v-4.027h2.542l5.024 8.708-5.024 8.708h-2.54L717.468 293h8.031l7.5-13-7.5-13z"/>
+        </g>
+        <g>
+            <path fill="#FFF" d="m455.5 342-7.5 13 7.5 13h5.096l4.886-6.956v-8.137l-4.964 6.785v4.016h-2.542L452.952 355l5.024-8.708h2.485l3.015-4.292z"/>
+            <path fill="#F4003A" d="m465.349 342-4.831 6.877v8.227l4.964-6.785v-4.027h2.542l5.024 8.708-5.024 8.708h-2.54L462.468 368h8.031l7.5-13-7.5-13z"/>
+        </g>
+        <g>
+            <path fill="#FFF" d="m455.5 417-7.5 13 7.5 13h5.096l4.886-6.956v-8.137l-4.964 6.785v4.016h-2.542L452.952 430l5.024-8.708h2.485l3.015-4.292z"/>
+            <path fill="#F4003A" d="m465.349 417-4.831 6.877v8.227l4.964-6.785v-4.027h2.542l5.024 8.708-5.024 8.708h-2.54L462.468 443h8.031l7.5-13-7.5-13z"/>
+        </g>
+        <g>
+            <path fill="#FFF" d="m965.5 342-7.5 13 7.5 13h5.096l4.886-6.956v-8.137l-4.964 6.785v4.016h-2.542L962.952 355l5.024-8.708h2.485l3.015-4.292z"/>
+            <path fill="#F4003A" d="m975.349 342-4.831 6.877v8.227l4.964-6.785v-4.027h2.542l5.024 8.708-5.024 8.708h-2.54L972.468 368h8.031l7.5-13-7.5-13z"/>
+        </g>
+        <g>
+            <path fill="#FFF" d="m965.5 417-7.5 13 7.5 13h5.096l4.886-6.956v-8.137l-4.964 6.785v4.016h-2.542L962.952 430l5.024-8.708h2.485l3.015-4.292z"/>
+            <path fill="#F4003A" d="m975.349 417-4.831 6.877v8.227l4.964-6.785v-4.027h2.542l5.024 8.708-5.024 8.708h-2.54L972.468 443h8.031l7.5-13-7.5-13z"/>
+        </g>
+    </g>
+</svg>
