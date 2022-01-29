@@ -20,7 +20,9 @@ The worst case scenario is when you have hundreds of statically-generated pages.
 - secondly, after generate .next related files, run next export -o build/
 - thirdly, install serve lib globally.
 - fourth, after installed, launch up app by 'serve build/' command. 
+- finally, using lighthoust chrom pulign to test the performance of the website.
 
 ##### Reference links
 
 - https://blog.logrocket.com/ssg-vs-ssr-in-next-js/
+- https://developers.google.com/web/tools/lighthouse
