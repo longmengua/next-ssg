@@ -1,34 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SSG
 
-## Getting Started
+### SSG (static site generation) introduction
 
-First, run the development server:
+When using SSG with Next.js, the page is pre-rendered at compile time. That means that the user won’t have to wait for the page to load at the browser; the page will simply be rendered.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+For data fetcng, Next.js provides three different functions:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- getStaticProps : The page will be pre-rendered at build time
+- getServerSideProps:  The page will be pre-rendered at runtime
+- getStaticPaths : This function generates a list of pages that will be pre-rendered at build time
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+The biggest disadvantage of using SSG is that the build time can get very long. You won’t have a problem when you have only a few statically-generated pages, but as your application grows, the build time will increase.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+The worst case scenario is when you have hundreds of statically-generated pages. The build time will take a long time, and if you have dynamic content on those pages, you can end up with too many builds.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Launch up
 
-## Learn More
+- firstly, run next build
+- secondly, after generate .next related files, run next export -o build/
+- thirdly, install serve lib globally.
+- fourth, after installed, launch up app by 'serve build/' command. 
 
-To learn more about Next.js, take a look at the following resources:
+##### Reference links
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- https://blog.logrocket.com/ssg-vs-ssr-in-next-js/

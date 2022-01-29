@@ -1,11 +1,17 @@
 {
-  "name": "md",
+  "name": "ssg",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
+    "lint": "next lint",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "export": "next export -o build/",
+    "ssg-launch-up": "serve build/",
+    "major": "yarn version --pre --major",
+    "minor": "yarn version --pre --minor",
+    "patch": "yarn version --pre --patch"
   },
   "dependencies": {
     "next": "12.0.8",
