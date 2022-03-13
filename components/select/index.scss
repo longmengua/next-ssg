@@ -1,0 +1,15 @@
+.select {
+  position: relative;
+  &__section {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    z-index: 3;
+    background-color: #1B1B1B;
+  }
+  &__title {
+    cursor: pointer;
+  }
+}
